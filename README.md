@@ -24,7 +24,7 @@ Movies API
 1. Clone the repository to your local machine.
 
 ```
-git clone https://github.com/akashmmcode/starwars.git
+git clone https://github.com/akashmmcode/first-Vue.JSProject.git
 ```
 
 2. CD to the repo
@@ -52,4 +52,4 @@ Something like the above and the port number will be different for diferent buil
 
 ## Acknowledgements
 
-Thank you for checking out the Star Wars Planets Web Application! May the Force be with you! 🌌✨
+Thank you for checking out the Movies Web Application!
